@@ -1,27 +1,3 @@
-# Abhinaya Gyawali
-
-<p align="center">
-Data Scientist | Machine Learning | Data Analytics | Python | SQL | AWS-Certified | Ex-DevOps Engineer
-</p>
-
-<p align="center">
-📍 Pennsylvania, USA • 
-📧 abhinaya7@gmail.com • 
-<a href="https://www.linkedin.com/in/abhinaya-gyawali">LinkedIn</a> • 
-<a href="https://github.com/abhinaya1">GitHub</a>
-</p>
-
----
-
-<table>
-<tr>
-<td width="220">
-
-<img src="profile_image.jpeg" width="200">
-
-</td>
-<td>
-
 ## About Me
 
 Data Scientist with a DevOps engineering background and graduate training in computational physics, building machine learning systems grounded in quantitative rigor and production reliability.
