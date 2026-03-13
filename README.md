@@ -9,10 +9,10 @@ Data Scientist | Machine Learning | Data Analytics | Python | SQL | AWS-Certifie
 </p>
 
 <p align="center">
-Pennsylvania, USA  
-<a href="https://www.linkedin.com/in/abhinaya-gyawali">LinkedIn</a>  
-abhinaya7@gmail.com  
-<a href="https://github.com/abhinaya1">GitHub</a>
+Pennsylvania, USA <br>
+<a href="https://www.linkedin.com/in/abhinaya-gyawali">LinkedIn</a> |
+<a href="https://github.com/abhinaya1">GitHub</a> |
+abhinaya7@gmail.com
 </p>
 
 ---
