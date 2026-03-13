@@ -2,6 +2,8 @@
 📧 abhinaya7@gmail.com • 
 [LinkedIn](https://www.linkedin.com/in/abhinaya-gyawali)
 
+---
+
 ## About Me
 
 Data Scientist with a DevOps engineering background and graduate training in computational physics, building machine learning systems grounded in quantitative rigor and production reliability.
