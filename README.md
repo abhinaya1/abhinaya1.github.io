@@ -1,3 +1,8 @@
+Pennsylvania, USA • 
+abhinaya7@gmail.com • 
+[LinkedIn](https://www.linkedin.com/in/abhinaya-gyawali) • 
+[GitHub](https://github.com/abhinaya1)
+
 ## About Me
 
 Data Scientist with a DevOps engineering background and graduate training in computational physics, building machine learning systems grounded in quantitative rigor and production reliability.
