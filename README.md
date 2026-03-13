@@ -60,8 +60,7 @@ Developed a machine learning pipeline to forecast e-commerce sales using histori
 - Evaluated model performance using **Root Mean Squared Error (RMSE)** to select the most accurate model.
 - Developed a **predictive workflow for sales forecasting** to support data-driven inventory and business planning.
 
-🔗 GitHub Repo:  
-https://github.com/abhinaya1/E_commerce_Sales_Prediction
+[GitHub Repo](https://github.com/abhinaya1/E_commerce_Sales_Prediction)
 
 ---
 
@@ -87,8 +86,7 @@ Built a Natural Language Processing (NLP) model to classify customer reviews int
 - Evaluated model performance using **accuracy, confusion matrix, and classification metrics**.
 - Developed a **sentiment classification pipeline** capable of predicting sentiment from new customer reviews.
 
-🔗 GitHub Repo:  
-https://github.com/abhinaya1/Customer-Review-Sentiment-Classifier
+[GitHub Repo](https://github.com/abhinaya1/Customer-Review-Sentiment-Classifier)
 
 ---
 
