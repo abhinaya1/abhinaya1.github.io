@@ -17,7 +17,7 @@ Data Scientist | Machine Learning | Data Analytics | Python | SQL | AWS-Certifie
 <tr>
 <td width="220">
 
-<img src="images/profile_image.jpeg" width="200">
+<img src="profile_image.jpeg" width="200">
 
 </td>
 <td>
