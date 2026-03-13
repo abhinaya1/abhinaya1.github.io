@@ -1,7 +1,6 @@
-Pennsylvania, USA • 
-abhinaya7@gmail.com • 
-[LinkedIn](https://www.linkedin.com/in/abhinaya-gyawali) • 
-[GitHub](https://github.com/abhinaya1)
+📍 Pennsylvania, USA • 
+📧 abhinaya7@gmail.com • 
+[LinkedIn](https://www.linkedin.com/in/abhinaya-gyawali)
 
 ## About Me
 
