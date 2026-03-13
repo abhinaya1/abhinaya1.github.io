@@ -1,3 +1,10 @@
+# Abhinaya Gyawali
+
+![Abhinaya Gyawali](profile_image.jpg)
+
+Data Scientist | Machine Learning | Data Analytics  
+Python | SQL | AWS Certified | Ex-Devops Engineer
+
 # My Projects Portfolio
 
 ## Data Science Projects
