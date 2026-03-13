@@ -59,7 +59,7 @@ Graduate research in computational nuclear physics focused on large scale numeri
 
 ## Projects
 
-### [E-commerce Sales Prediction]
+### E-commerce Sales Prediction
 
 **Description:**  
 Developed a machine learning pipeline to forecast e-commerce sales using historical transaction data. The project explores patterns in product sales, performs feature analysis, and compares multiple regression models to identify the most accurate forecasting approach. The resulting model can help businesses anticipate demand and optimize inventory planning..
@@ -84,7 +84,7 @@ https://github.com/abhinaya1/E_commerce_Sales_Prediction
 
 ---
 
-### [Customer Review Sentiment Classifier]
+### Customer Review Sentiment Classifier
 
 **Description:**  
 Built a Natural Language Processing (NLP) model to classify customer reviews into positive or negative sentiment. The project processes raw review text, performs text preprocessing and feature extraction, and trains multiple machine learning classifiers to identify sentiment patterns in customer feedback. Such models can help businesses understand customer satisfaction and monitor product reputation automatically.
