@@ -1,21 +1,26 @@
 # Abhinaya Gyawali
 
 <p align="center">
-<img src="profile_image.jpeg" width="200" style="border-radius:50%;">
-</p>
-
-<p align="center">
 Data Scientist | Machine Learning | Data Analytics | Python | SQL | AWS-Certified | Ex-DevOps Engineer
 </p>
 
 <p align="center">
-Pennsylvania, USA <br>
-<a href="https://www.linkedin.com/in/abhinaya-gyawali">LinkedIn</a> |
-<a href="https://github.com/abhinaya1">GitHub</a> |
-abhinaya7@gmail.com
+📍 Pennsylvania, USA • 
+📧 abhinaya7@gmail.com • 
+<a href="https://www.linkedin.com/in/abhinaya-gyawali">LinkedIn</a> • 
+<a href="https://github.com/abhinaya1">GitHub</a>
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="220">
+
+<img src="images/profile_image.jpeg" width="200">
+
+</td>
+<td>
 
 ## About Me
 
@@ -26,9 +31,10 @@ Develop regression, classification, clustering, and NLP models on datasets rangi
 Previously worked as an AWS DevOps Engineer at Refinitiv, Blue Cross Blue Shield, and FedEx, reducing deployment time by 80 percent, improving system reliability by 50 percent, and designing cloud infrastructure achieving 99.99 percent uptime. Built CI CD pipelines, automated infrastructure using AWS and Linux environments, and deployed containerized applications using Docker and Kubernetes.
 
 Graduate research in computational nuclear physics focused on large scale numerical simulation and mathematical modeling of complex physical systems. Designed computational experiments, analyzed high dimensional simulation outputs, and validated theoretical predictions using reproducible algorithmic frameworks. Published peer reviewed research on nuclear stability and hyperheavy nuclei.
-
+</td>
+</tr>
+</table>
 ---
-
 ## Skills
 
 ### Programming
