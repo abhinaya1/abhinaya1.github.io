@@ -67,7 +67,7 @@ Developed a machine learning pipeline to forecast e-commerce sales using histori
 - Developed a **predictive workflow for sales forecasting** to support data-driven inventory and business planning.
 
 **Repository:**  
-[Customer Review Sentiment Classifier](https://github.com/abhinaya1/E_commerce_Sales_Prediction)
+[E-Commerce Sales Prediction](https://github.com/abhinaya1/E_commerce_Sales_Prediction)
 
 ---
 
