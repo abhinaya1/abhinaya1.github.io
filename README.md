@@ -7,9 +7,6 @@ Develop regression, classification, clustering, and NLP models on datasets rangi
 Previously worked as an AWS DevOps Engineer at Refinitiv, Blue Cross Blue Shield, and FedEx, reducing deployment time by 80 percent, improving system reliability by 50 percent, and designing cloud infrastructure achieving 99.99 percent uptime. Built CI CD pipelines, automated infrastructure using AWS and Linux environments, and deployed containerized applications using Docker and Kubernetes.
 
 Graduate research in computational nuclear physics focused on large scale numerical simulation and mathematical modeling of complex physical systems. Designed computational experiments, analyzed high dimensional simulation outputs, and validated theoretical predictions using reproducible algorithmic frameworks. Published peer reviewed research on nuclear stability and hyperheavy nuclei.
-</td>
-</tr>
-</table>
 
 ---
 
