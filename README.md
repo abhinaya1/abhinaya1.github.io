@@ -1,6 +1,6 @@
 # Abhinaya Gyawali
 
-![Abhinaya Gyawali](profile_image.jpg)
+![Abhinaya Gyawali](profile_image.jpeg)
 
 Data Scientist | Machine Learning | Data Analytics  
 Python | SQL | AWS Certified | Ex-Devops Engineer
