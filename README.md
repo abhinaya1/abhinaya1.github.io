@@ -34,6 +34,7 @@ Graduate research in computational nuclear physics focused on large scale numeri
 </td>
 </tr>
 </table>
+
 ---
 
 ## Skills
