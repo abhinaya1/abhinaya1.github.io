@@ -1,7 +1,7 @@
 # Abhinaya Gyawali
 
 <p align="center">
-<img src="profile_image.jpg" width="200">
+<img src="profile_image.jpeg" width="200">
 </p>
 
 <p align="center">
